@@ -1,1 +1,2 @@
 https://www.sim-networks.com/wiki/add-disk-space-linux-server-lvm-debian
+https://serveradmin.ru/booting-from-hard-disk-error-entering-rescue-mode/
